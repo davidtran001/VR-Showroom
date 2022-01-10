@@ -1,0 +1,11 @@
+Model Information:
+* title:	Chat Bubble Icon
+* source:	https://sketchfab.com/3d-models/chat-bubble-icon-d13ff0267030497ca91742ba011b0829
+* author:	AnshiNoWara (https://sketchfab.com/AnshiNoWara)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Chat Bubble Icon" (https://sketchfab.com/3d-models/chat-bubble-icon-d13ff0267030497ca91742ba011b0829) by AnshiNoWara (https://sketchfab.com/AnshiNoWara) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

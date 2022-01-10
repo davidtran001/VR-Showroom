@@ -1,0 +1,11 @@
+Model Information:
+* title:	Robot (Love, Death and Robots)
+* source:	https://sketchfab.com/3d-models/robot-love-death-and-robots-c54c32bed0364e11aeefd380950ab361
+* author:	gornostai (https://sketchfab.com/gornostai)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Robot (Love, Death and Robots)" (https://sketchfab.com/3d-models/robot-love-death-and-robots-c54c32bed0364e11aeefd380950ab361) by gornostai (https://sketchfab.com/gornostai) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

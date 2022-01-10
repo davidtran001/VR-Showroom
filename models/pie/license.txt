@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pie
+* source:	https://sketchfab.com/3d-models/pie-6794751c282b43458a421155eaa14b69
+* author:	Aender Lara (https://sketchfab.com/aenderlara)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pie" (https://sketchfab.com/3d-models/pie-6794751c282b43458a421155eaa14b69) by Aender Lara (https://sketchfab.com/aenderlara) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
