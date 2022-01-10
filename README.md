@@ -1,6 +1,8 @@
 # Virtual Reality Showroom
 Welcome to David Tran's VR showroom! An interactive VR showroom with the purpose of demonstrating past projects and experience. This VR tech demo that was made using Python and Vizard.
 
+![](https://github.com/davidtran001/VR-Showroom/blob/main/images/VRshowroom.png)
+
 # How to run the program
 In order to run this program you must have Vizard installed and download the required 3D scene. This file was not included in this repository due to limitations with GitHub.
 [Click here to download.](https://drive.google.com/file/d/1Lp0q3m5QVug0ORsZ8ZXDfMh961S1nKyM/view?usp=sharing)
