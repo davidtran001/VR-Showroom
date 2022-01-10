@@ -46,7 +46,7 @@ poetifyText = env.getChild('poetifyText')
 VisionFitText = env.getChild('VisionFitText')
 TCPChatServerText = env.getChild('TCPChatServerText')
 
-grabbableObjects = [PIEMAP,pie,featherink,robot,dumbbell,dumbbell2,chatbubble,ibmmodelm]
+grabbableObjects = [PIEMAP,pie,featherink,robot,dumbbell,dumbbell2,chatbubble,ibmmodelm,PIEMAPText,poetifyText,VisionFitText,TCPChatServerText]
 
 # Code to get the grabber tool by name and supply the list of items which can be grabbed
 grabber = vizconnect.getRawTool('grabber')
