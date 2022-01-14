@@ -100,6 +100,7 @@ def onGrab(e):
 		print('grabbed poetifyText')
 	
 	if e.grabbed == VisionFitText:
+		webbrowser.open('https://github.com/davidtran001/Vision-Fit', new=0, autoraise=True)
 		VisionFitText.collideBox()
 		print('grabbed VisionFitText')
 		
