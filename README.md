@@ -1,5 +1,5 @@
 # Virtual Reality Showroom
-Welcome to David Tran's VR Showroom! An interactive VR showroom with the purpose of demonstrating past projects and experience. This VR tech demo that was made using Python and Vizard.
+Welcome to my VR Showroom! An interactive VR showroom with the purpose of demonstrating past projects and experience. This VR tech demo that was made using Python and Vizard.
 
 ![](https://github.com/davidtran001/VR-Showroom/blob/main/images/Untitled.png)
 
